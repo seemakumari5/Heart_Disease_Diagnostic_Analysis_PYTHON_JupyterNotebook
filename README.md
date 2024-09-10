@@ -1,1 +1,1 @@
-# Heart_Disease_Diagnostic_Analysis_Pyrhon
+# Heart_Disease_Diagnostic_Analysis_Python
